@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnikateKoul
-- 👀 I’m interested in ... competitive coding
+- 👀 I’m interested in ... competitive programming, app and game development
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... anikate03@gmail.com
